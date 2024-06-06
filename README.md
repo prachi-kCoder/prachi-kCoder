@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @prachi-kCoder
-- 👀 I’m interested in entrepreneurship and Stock Market Investing
-- 🌱 I’m currently learning Web Developments
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me cold Email or build a Connetion on LinkedIN
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I am so so sweet.
+- 👀 A passionate MERN stack developer with a strong inclination towards frontend technologies
+- 💞️ Open Source Contributor in GSSOC and GSOC 2024
+- 😄 Exploring the exciting field of machine learning, integrating intelligent features into my projects
+- ⚡ More interested in  React and Three.js allowing me to craft visually stunning and interactive user interfaces, pushing the boundaries of web design with innovative 3D elements..
 
 <!---
 prachi-kCoder/prachi-kCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
